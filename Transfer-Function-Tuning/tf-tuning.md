@@ -11,5 +11,5 @@ We optimize and manually enter the values of K and T, and thus plot the scope af
 ### Case 1: K=10, T=5
 
 For the above values of coefficients, we obtain the following scope:
-<img src = "images/result1.png">
+<img src = "/images/result1.png"/>
  
