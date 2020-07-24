@@ -11,5 +11,5 @@ We optimize and manually enter the values of K and T, and thus plot the scope af
 ### Case 1: K=10, T=5
 
 For the above values of coefficients, we obtain the following scope:
-[](https://github.com/Anuj-Attri/basic-control-systems/blob/master/Transfer-Function-Tuning/Images/result1.png?raw=true)
+![](https://github.com/Anuj-Attri/basic-control-systems/blob/master/Transfer-Function-Tuning/Images/result1.png?raw=true)
  
